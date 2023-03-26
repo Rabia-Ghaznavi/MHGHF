@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css"
+        integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+    
+    <div class="container">
+        <header class="hdr">
+
+            <nav class="nv">
+                <img class="logo" src="./LOGO.png" alt="logo">
+                <!-- <h1 class="logoname">MTR Coders</h1> -->
+                <a class="link" href="">Home</a>
+                <a class="link" href="">Learn AI</a>
+                <a class="link" href="">About Us</a>
+            </nav>
+        </header>
+        <main><img class="banner" src="./home.png" alt="">
+            <!-- <p>YOU MAY NOT REALIZE BUT AI IS ALL AROUND US</p> -->
+        </main>
+
+        <!-- <aside>aside</aside> -->
+        <!-- <article> -->
+
+        <!-- <div class="content" id="content1">HOW AI INVOLVED IN OUR DAILY LIFE? AI is increasingly becoming an integral
+            part of our daily lives, from the personalized recommendations we receive on social media to the voice
+            assistants we interact with at home. AI algorithms are used to predict our online behavior, tailor
+            advertisements, and suggest products we may be interested in purchasing. In healthcare, AI is used to
+            improve diagnostics and predict potential health issues.</div>
+        <div class="content" id="content2">WHY AI IS IMPORTANT TO LEARN? Artificial intelligence (AI) is transforming
+            the way we live and work, and is increasingly becoming a part of our daily lives. From virtual assistants
+            like Siri and Alexa to self-driving cars and personalized recommendations on social media, AI is powering
+            the technology that surrounds us. Therefore, learning about AI is essential for anyone looking to stay
+            relevant in the modern workforce.
+
+            AI skills are in high demand across various industries, from healthcare and finance to retail and
+            entertainment. Having a fundamental understanding of AI can help you identify new opportunities for
+            innovation, increase efficiency in your work, and gain a competitive edge in the job market. Furthermore,
+            learning AI can also help you to solve complex problems more effectively, improve decision-making processes,
+             and drive growth and productivity in your business.
+
+        </div>
+        <div class="content" id="content3">WHAT IS THE FUTURE OF AI? The future of AI is filled with endless
+            possibilities and opportunities. As technology continues to evolve, we can expect AI to become even more
+            advanced and integrated into various aspects of our lives. In the coming years, AI will likely transform
+             industries such as healthcare, finance, and transportation, revolutionizing the way we work and live. </div>
+         </article>  -->
+        <footer>
+            <div class="menu">
+                <h3>SERVICES LINK</h3>
+
+                <ul>
+                    <li><a href="index.html">
+                            <h4>Home</h4>
+                        </a></li>
+                    <li> <a href="aboutus.html">
+                            <h4>About Us</h4>
+                        </a></li>
+                    <li> <a href="login.html">
+                            <h4>Login</h4>
+                        </a></li>
+                    <li> <a href="signup.html">
+                            <h4>SignUp</h4>
+                        </a></li>
+                </ul>
+             </div>
+            <div class="menu">
+                <h3>TEAM</h3>
+                <ul>
+                    <li>TOOBA </li>
+                    <li>MAHNOOR</li>
+                    <li>RABIA</li>
+                </ul>
+
+            </div> 
+            <div class="menu">
+                <h3>GitHub Links</h3>
+                <ul>
+                    <li><i class="fa-solid fa-link fa-spin-pulse"></i><a href="https://github.com/ToobaTaqi" >TOOBA</li>
+                    <li><i class="fa-solid fa-link fa-spin-pulse"></i><a href="https://github.com/dr-mahnooriqbal">MAHNOOR</li>
+                    <li><i class="fa-solid fa-link fa-spin-pulse"></i><a href="https://github.com/Rabia-Ghaznavi">RABIA</li>
+                </ul>
+
+            </div>
+            <div class="clear">
+
+             <!-- <div class="icon">
+                <div class="half">
+                <ul class="icon_social">
+                    <li><i class="fa-brands fa-facebook fa-shake fa-lg fa-2xl" style="color: #2d33e6;"></i></li>
+                    <li><i class="fa-brands fa-youtube fa-flip fa-2xl" style="color: #f70202;"></i></li>
+                    <li><i class="fa-brands fa-instagram fa-spin fa-2xl" style="color: #ed0cdb;"></i></li>
+                    <li></li>
+                </ul> -->
+           
+
+
+
+    </div>
+    </footer>
+    </div>
+</body>
+
+</html>
